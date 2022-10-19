@@ -4,7 +4,7 @@
 * It is an introductory page about Mobile Tab Navigation. It contains 4 images for four different tabs.
 * Evey tab contains a suitable image with the tab name.
 * The smooth 'Transition Click' facility is provided where the user clicked on the icon of the tab and experience a 'Transition' in smoothly.
-* With the name of the tabsm suitable icons are placed. (Downloaded from " https://fontawesome.com/ ")
+* With the name of the tabs suitable icons are placed. (Downloaded from " https://fontawesome.com/ ")
 
 # ----------------------------------------------------------
 
